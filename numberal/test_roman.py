@@ -1,4 +1,4 @@
-# 64364757ภาณุวิชญ์ ขวัญเพ็ง
+
 import pytest
 # standard
 from numberal.roman import to_roman
